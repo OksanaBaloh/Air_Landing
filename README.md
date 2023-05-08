@@ -18,3 +18,10 @@ Landing page was implemented according to [Figma design](https://www.figma.com/f
 - Preprocessors SCSS
 - JavaScript
 - Mobile-first workflow
+
+ ## Installation and Usage
+
+1. Clone the repository
+2. Install dependencies: `npm install`
+3. Run the development server: `npm start`
+4. Open http://localhost:3000 in a web browser.
